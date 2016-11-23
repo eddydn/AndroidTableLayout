@@ -1,0 +1,4 @@
+AndroidTableLayout.MainActivity, AndroidTableLayout;md588cb41b228e9963c9a17a4e60759fbae.MainActivity
+AndroidTableLayout.MainActivity, AndroidTableLayout, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md588cb41b228e9963c9a17a4e60759fbae.MainActivity
+AndroidTableLayout.MainActivity;md588cb41b228e9963c9a17a4e60759fbae.MainActivity
+androidtablelayout.MainActivity;md588cb41b228e9963c9a17a4e60759fbae.MainActivity
